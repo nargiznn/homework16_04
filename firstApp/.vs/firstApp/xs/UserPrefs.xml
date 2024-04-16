@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A6FFC36F-531A-40A0-97C4-81F62F57C383}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.firstApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstApp/Views/Group/Index.cshtml">
+    <Files>
+      <File FileName="firstApp/Program.cs" Line="11" Column="7" />
+      <File FileName="firstApp/Controllers/GroupController.cs" Line="28" Column="10" />
+      <File FileName="firstApp/Views/Group/Index.cshtml" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstApp" expanded="True">
+            <Node name="firstApp">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views">
+                <Node name="Group">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,22 @@
+﻿@using firstApp.Models
+@{
+    List<int> numbers = new List<int> { 4, 5, 76, 8 };
+    List<Group> groups = ViewBag.Groups;
+}
+<ul>
+    @foreach (var group in groups)
+    {
+        <li>
+            @group.Id - @group.No
+        </li>
+    }
+</ul>
+
+<ul>
+    @foreach(var item in numbers)
+{
+            <li>
+                @item
+            </li>
+}
+</ul>
